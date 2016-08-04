@@ -341,7 +341,7 @@
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td>{7AB5E4E7-8D54-4297-A56B-2BDCCA79600E}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{9D7A810D-A734-4CF5-97F4-895B46D67EBA}</td><td>INSTALLDIR</td><td>258</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MauticOutlookPlugin.Primary_output</td><td>{5F738F0E-0451-487F-8074-CCBF18ACEE21}</td><td>INSTALLDIR</td><td>2</td><td/><td>mauticoutlookplugin.primary_</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MauticOutlookPlugin.Primary_output</td><td>{7D556437-6111-4CB8-8670-189DB4B6237B}</td><td>INSTALLDIR</td><td>2</td><td/><td>mauticoutlookplugin.primary_</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
 	<table name="Condition">
@@ -1880,9 +1880,9 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I4">ISAttributes</col>
 		<col def="S72">ISComponentSubFolder_</col>
-		<row><td>mautic_outlook_plugin.dll.ma</td><td>ISX_DEFAULTCOMPONENT</td><td>MAUTIC~1.MAN|Mautic Outlook Plugin.dll.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Werner\Documents\Visual Studio 2015\Projects\MauticOutlookPlugin\MauticOutlookPlugin\bin\Release\Mautic Outlook Plugin.dll.manifest</td><td>1</td><td/></row>
-		<row><td>mautic_outlook_plugin.vsto</td><td>ISX_DEFAULTCOMPONENT</td><td>MAUTIC~1.VST|Mautic Outlook Plugin.vsto</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Werner\Documents\Visual Studio 2015\Projects\MauticOutlookPlugin\MauticOutlookPlugin\bin\Release\Mautic Outlook Plugin.vsto</td><td>1</td><td/></row>
+		<row><td>mauticoutlookplugin.dll.mani</td><td>ISX_DEFAULTCOMPONENT</td><td>MAUTIC~1.MAN|MauticOutlookPlugin.dll.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Werner\Documents\Visual Studio 2015\Projects\MauticOutlookPlugin\MauticOutlookPlugin\bin\Release\MauticOutlookPlugin.dll.manifest</td><td>1</td><td/></row>
 		<row><td>mauticoutlookplugin.primary_</td><td>MauticOutlookPlugin.Primary_output</td><td>MauticOutlookPlugin.Primary output</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;MauticOutlookPlugin&gt;|Built</td><td>3</td><td/></row>
+		<row><td>mauticoutlookplugin.vsto</td><td>ISX_DEFAULTCOMPONENT</td><td>MAUTIC~1.VST|MauticOutlookPlugin.vsto</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Werner\Documents\Visual Studio 2015\Projects\MauticOutlookPlugin\MauticOutlookPlugin\bin\Release\MauticOutlookPlugin.vsto</td><td>1</td><td/></row>
 	</table>
 
 	<table name="FileSFPCatalog">
@@ -2028,7 +2028,7 @@
 		<col def="S0">Miscellaneous</col>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_09C1FA08_EC65_4CE6_9F71_97E2F1256C21_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_0AD2D487_DBAF_47F2_8442_6127B4680D0C_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MauticOutlookPlugin.Primary_output</td><td/><td/><td>_C2C841A1_8F7E_453F_843E_BC9F88C7273C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>MauticOutlookPlugin.Primary_output</td><td/><td/><td>_FF8BEDEC_7ACE_4527_AFA7_CB0E0A6A4F9B_FILTER</td><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="ISCustomActionReference">
@@ -2620,7 +2620,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>Mautic</td><td>0</td><td/><td>-609983646</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>Mautic</td><td>0</td><td/><td>606392495</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>-609988608</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>-609988608</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL</td><td>1033</td><td>Microsoft .NET Framework 4.5 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>-609978176</td></row>
@@ -3722,8 +3722,8 @@
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>-609988608</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>-609988608</td></row>
 		<row><td>ID_STRING1</td><td>1033</td><td/><td>0</td><td/><td>-609986560</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>http://www.Mautic.com</td><td>0</td><td/><td>-609983646</td></row>
-		<row><td>ID_STRING3</td><td>1033</td><td>Mautic</td><td>0</td><td/><td>-609983646</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>http://www.Mautic.com</td><td>0</td><td/><td>606392495</td></row>
+		<row><td>ID_STRING3</td><td>1033</td><td>Mautic</td><td>0</td><td/><td>606392495</td></row>
 		<row><td>ID_STRING4</td><td>1033</td><td>Mautic Outlook Plugin</td><td>0</td><td/><td>-609987968</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>-609988608</td></row>
 	</table>
